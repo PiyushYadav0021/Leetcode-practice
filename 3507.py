@@ -20,3 +20,6 @@ class Solution:
                 nums = nums[0 : minimum_index] + [minimum_value] + nums[minimum_index + 2:]
                 result +=1
         return result
+
+
+![Dashboard](images/3507.png)

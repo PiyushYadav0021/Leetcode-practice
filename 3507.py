@@ -1,4 +1,4 @@
-class Solution:
+./class Solution:
     def minimumPairRemoval(self, nums: List[int]) -> int:
         ordered = False
         result = 0
@@ -22,4 +22,4 @@ class Solution:
         return result
 
 
-![Dashboard](images/3507.png)
+![Dashboard](./images/3507.png)

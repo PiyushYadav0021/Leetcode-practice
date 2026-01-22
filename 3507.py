@@ -22,4 +22,4 @@
         return result
 
 
-![Dashboard](./images/3507.png)
+![Dashboard](./Images/3507.png)

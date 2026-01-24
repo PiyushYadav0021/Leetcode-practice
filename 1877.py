@@ -15,4 +15,4 @@ class Solution:
 
 
 
-![Dashboard](./assets/1877.png)
+![Dashboard](./Images/1877.png)

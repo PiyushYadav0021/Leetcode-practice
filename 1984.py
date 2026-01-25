@@ -6,3 +6,9 @@ class Solution:
         for i in range(len(nums) - k +1 ):
             result = min(result, nums[i + k-1]- nums[i])
         return result
+
+
+
+
+
+![App Preview](images/1984.png)

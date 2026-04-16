@@ -7,4 +7,5 @@ This is my leetcode prctice repo here I will post my daily question what I have 
 1984
 2976
 3507
-
+401
+762
